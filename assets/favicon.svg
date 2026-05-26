@@ -1,5 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect x="2" y="2" width="60" height="60" rx="10" fill="#15120e"/>
-  <text x="32" y="46" text-anchor="middle" font-family="Courier, monospace" font-weight="bold" font-size="34" fill="#ede2c4">AI</text>
-  <line x1="6" y1="58" x2="58" y2="6" stroke="#a82820" stroke-width="8" stroke-linecap="round"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="60" height="60" x="2" y="2" fill="#15120e" rx="10"/><text x="32" y="46" fill="#ede2c4" font-family="Courier, monospace" font-size="34" font-weight="bold" text-anchor="middle">AI</text><line x1="6" x2="58" y1="58" y2="6" stroke="#a82820" stroke-linecap="round" stroke-width="8"/></svg>
